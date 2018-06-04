@@ -5,5 +5,5 @@ function hideWhenClicked(){
     } else {
         x.style.display = "none";
     }
-  
+
 }
